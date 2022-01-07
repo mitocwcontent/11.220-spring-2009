@@ -1,0 +1,47 @@
+{
+  "term": "Spring",
+  "year": "2009",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Mathematics",
+      "Probability and Statistics"
+    ],
+    [
+      "Social Science",
+      "Urban Studies",
+      "Urban Planning"
+    ]
+  ],
+  "legacy_uid": "27a11a8e-9aa5-1a8d-a32a-b92eefceacf2",
+  "instructors": {
+    "content": [
+      "9c830b6f-f5ae-83b3-aee5-9d013d41e8d4"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "f38737f3-8be8-a57f-0754-521c103efa64",
+    "website": "11-220-quantitative-reasoning-statistical-methods-for-planners-i-spring-2009"
+  },
+  "course_title": "Quantitative Reasoning & Statistical Methods for Planners I",
+  "course_description": "This course develops logical, empirically based arguments using statistical techniques and analytic methods. Elementary statistics, probability, and other types of quantitative reasoning useful for description, estimation, comparison, and explanation are covered. Emphasis is on the use and limitations of analytical techniques in planning practice.\n",
+  "department_numbers": [
+    "11"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "11.220",
+  "course_image_thumbnail": {
+    "content": "02ad48e3-7c0a-51ed-904d-2549768c3684",
+    "website": "11-220-quantitative-reasoning-statistical-methods-for-planners-i-spring-2009"
+  },
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Exams",
+    "Written Assignments"
+  ],
+  "site_uid": "3d55747c-8073-41c1-b85b-80a44856ff1e",
+  "title": "Course Metadata"
+}
